@@ -31,22 +31,22 @@ const imageAltText = "A background picture of stars";
  */
 const projectList = [
   {
-    title: "10 Things To Know About Azure Static Web Apps 🎉",
+    title: "A Staff Recruitment System",
     description:
-      "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
-    url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
+      "A software solution designed to streamline and optimize the hiring process within an organization.",
+    url: "https://staff-recruit-system.vercel.app/",
   },
   {
-    title: "Web Development for Beginners",
+    title: "A Javascript to-do list",
     description:
-      "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
-    url: "https://github.com/microsoft/web-dev-for-beginners",
+      "I enhanced my web hosting and JavaScript skills by forking a to-do list repository from GitHub and making substantial edits to the JavaScript code.",
+    url: "https://laja-list.vercel.app/",
   },
   {
-    title: "My Resume Site",
+    title: "RunTechSpace",
     description:
-      "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
-    url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
+      "Utilizing both backend and frontend technologies, I developed a website for my technology community.",
+    url: "https://runtechspace.com",
   },
   {
     title: "GitHub Codespaces and github.dev",
