@@ -49,10 +49,10 @@ const projectList = [
     url: "https://runtechspace.com",
   },
   {
-    title: "GitHub Codespaces and github.dev",
+    title: "A QR Code Generator",
     description:
-      "Video interview to explain when to use GitHub.dev versus GitHub Codespaces, and how best to use each tool.",
-    url: "https://www.youtube.com/watch?v=c3hHhRME_XI",
+      "A QR Code Generator implemented in JavaScript.",
+    url: "https://testruc.vercel.app/",
   },
 ];
 
